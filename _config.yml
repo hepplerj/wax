@@ -131,4 +131,7 @@ footer:
     - img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2r40VYrf2Q5jkJiPGjPkl7xZoHJliwgVtHCLVXmAsRKw0ZudD'
       link: 'https://library.columbia.edu'
 
+wax_annotations:
+  ingest_dir: '_new_annotations'
+
 # FIN
